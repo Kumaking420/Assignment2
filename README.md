@@ -1,1 +1,5 @@
 # Assignment2
+
+AHMAD ALI 
+252-NUN0018
+BSCS 3A
